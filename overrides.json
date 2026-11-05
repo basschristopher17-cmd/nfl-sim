@@ -1,0 +1,7 @@
+{
+  "_help": "Edit by hand any time. out = names forced out. in = names forced available. qb = {TEAM: starting QB name}. team = {player name: TEAM} forces a roster move the feeds haven't caught yet. Keys starting with _ are ignored.",
+  "out": [],
+  "in": [],
+  "qb": {},
+  "team": {}
+}
